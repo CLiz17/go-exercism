@@ -1,4 +1,4 @@
-### Exercism GO
+# Exercism GO
 
-1. **Two Fer**
-2. **Raindrops**
+1. [**Two Fer**](two-fer.go)
+2. [**Raindrops**]()
