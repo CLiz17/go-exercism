@@ -14,3 +14,4 @@
 12. [**Hamming**](hamming.go)
 13. [**Scrabble**](scrabble.go)
 14. [**Leap**](leap.go)
+15. [**Difference of Square**](differenceOfSquares.go)
